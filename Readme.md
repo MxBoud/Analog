@@ -1,6 +1,6 @@
 # Analog
 
-Analog is a "video game" made with Unity to help teaching the basis of analog measurements in a first year university physics laboratory. The game will be tested with students in the semester of fall 2017. 
+Analog is a "video game" made with [Unity][1] to help teaching the basis of analog measurements in a first year university physics laboratory. The game will be tested with students in the semester of fall 2017. 
 
 ## Screenshots
 The voltmeter simulator. 
