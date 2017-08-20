@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{16E2FFD4-0AD1-EA89-CF27-0B2ED3BEB652}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MeasurementParsor.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="226" Column="38" />
+      <File FileName="Assets/Scripts/InstrumentController.cs" Line="23" Column="64" />
+      <File FileName="Assets/Scripts/MeasurementParsor.cs" Line="93" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mezures PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
