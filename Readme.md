@@ -8,7 +8,7 @@ The voltmeter simulator.
 
 ## Features
 * Two differents instruments are availables. 
-* A parsing algorithm analyze the user submission of the measurement and its uncertainty to make sure they 
+* A parsing algorithm analyze the user submission of the measurement and its uncertainty to make sure they are presented according to the convention. 
 * A simple scoring mechanism makes it look like an arcade game. 
 
 
