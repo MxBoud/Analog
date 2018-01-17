@@ -166,6 +166,7 @@ public class GameController : MonoBehaviour {
 			{
 				messageField.text = "Mauvaise incertitude :(";
 				updateAmmeterScore(-10);
+				return; 
 			}
 
 			if (Mathf.Abs(inputCurrent - currentSubmitted) > 0.01f)
