@@ -1,6 +1,6 @@
 # Analog
 
-Analog is a "video game" made with [Unity][1] to help teaching the basis of analog measurements in a first year university physics laboratory. The game will be tested with students in the semester of fall 2017. 
+Analog is a "video game" made with [Unity][1] to help teaching the basis of analog measurements in a first year university physics laboratory. The game has ben tested in the 2018-2019 academic year and was usefull to help the students to understand how to read on an analog scale. 
 
 ## Screenshots
 The voltmeter simulator. 
@@ -14,7 +14,7 @@ The voltmeter simulator.
 
 
 ## Installation
-Only the source code is provided in this repository. To try the game, one need's to install [Unity][1] 5.6.1 and load the current project. 
+Only the source code is provided in this repository. To try the game, one need's to install [Unity][1] (version 5.6.1 was used for development) and load the current project. 
 
 [1]: http://unity3d.com
 [ScreenShot1]:
